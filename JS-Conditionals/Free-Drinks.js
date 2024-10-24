@@ -4,7 +4,7 @@ Free Drinks
     - Else Coke: 30tk
 */
 
-let burger = 600;
+let burger = 300;
 
 if(burger > 500){
     console.log("Free Coke and Total" + burger);
