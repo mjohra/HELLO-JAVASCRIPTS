@@ -13,7 +13,7 @@ Create a JavaScript program that calculates the Body Mass Index (BMI) and assign
 */
 
 let weight = 100;
-let height = 1.8;
+let height = 1.7;
 let bmi_calculate = 0;
 
 if(height === "" | isNaN(height)){
