@@ -11,7 +11,7 @@ let ticketFare = 800;
 let isChildren = false;
 let isStudent = false;
 let isSeniorCitizen = false;
-let age = 15;
+let age = 25;
 
 if (isChildren) {
   if (age < 10) {
