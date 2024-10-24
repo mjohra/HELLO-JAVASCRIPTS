@@ -11,7 +11,7 @@ Note:
 use nested if-else-if-else
 */
 let yourScore = 60;
-let friendScore =39;
+let friendScore =59;
 
 
 // Check your score first
