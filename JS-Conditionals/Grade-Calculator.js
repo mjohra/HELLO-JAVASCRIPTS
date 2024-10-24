@@ -12,7 +12,7 @@ Create a simple JavaScript program that takes a student's score as input and ret
 
 ***/
 
-let score = 101;
+let score = 99;
 
 if (score === "" || isNaN(score)){
     console.log('Enter a valid number between 0-100');
